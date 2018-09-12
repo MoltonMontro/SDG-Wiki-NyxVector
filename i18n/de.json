@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"The Evil IP address",
+			"Umherirrender"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Stellt eine modernisierte Benutzeroberfläche bereit",
+	"nyxvector.css": "/* Das folgende CSS wird für Benutzer der NyxVector-Benutzeroberfläche geladen. */",
+	"nyxvector.js": "/* Das folgende JavaScript wird für Benutzer der NyxVector-Benutzeroberfläche geladen. */",
+	"nyxvector-action-addsection": "Abschnitt hinzufügen",
+	"nyxvector-action-delete": "Löschen",
+	"nyxvector-action-move": "Verschieben",
+	"nyxvector-action-protect": "Schützen",
+	"nyxvector-action-undelete": "Wiederherstellen",
+	"nyxvector-action-unprotect": "Seitenschutz ändern",
+	"nyxvector-view-create": "Erstellen",
+	"nyxvector-view-edit": "Bearbeiten",
+	"nyxvector-view-history": "Versionsgeschichte",
+	"nyxvector-view-view": "Lesen",
+	"nyxvector-view-viewsource": "Quelltext anzeigen",
+	"nyxvector-more-actions": "Mehr"
+}

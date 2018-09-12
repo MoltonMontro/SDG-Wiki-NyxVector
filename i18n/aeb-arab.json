@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"علاء",
+			"Csisc"
+		]
+	},
+	"nyxvector-action-addsection": "أضف موضوعاً",
+	"nyxvector-action-delete": "احذف",
+	"nyxvector-action-move": "حوّل",
+	"nyxvector-action-protect": "احم",
+	"nyxvector-action-undelete": "استرجع الحذف",
+	"nyxvector-action-unprotect": "غير الحماية",
+	"nyxvector-view-create": "أنشئ",
+	"nyxvector-view-edit": "بدّل",
+	"nyxvector-view-history": "ورّي الپاج",
+	"nyxvector-view-view": "أقرا",
+	"nyxvector-view-viewsource": "اعرض المصدر",
+	"nyxvector-more-actions": "زادة"
+}

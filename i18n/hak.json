@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anson2812",
+			"Jetlag",
+			"Hakka",
+			"唐吉訶德的侍從"
+		]
+	},
+	"nyxvector-action-addsection": "Kâ-ngi̍p fa-thì",
+	"nyxvector-action-delete": "San-chhù",
+	"nyxvector-action-move": "Yì-thûng",
+	"nyxvector-action-protect": "Pó-fu",
+	"nyxvector-action-undelete": "恢復",
+	"nyxvector-action-unprotect": "更改保護",
+	"nyxvector-view-create": "Kien-li̍p",
+	"nyxvector-view-edit": "Phiên-siá",
+	"nyxvector-view-history": "Khon li̍t-sṳ́",
+	"nyxvector-view-view": "Thu̍k",
+	"nyxvector-view-viewsource": "Khon ngièn-sṳ́-mâ",
+	"nyxvector-more-actions": "Kiên-tô"
+}

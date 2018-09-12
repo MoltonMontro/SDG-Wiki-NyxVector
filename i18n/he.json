@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Rotemliss",
+			"Guycn2"
+		]
+	},
+	"skinname-nyxvector": "וקטור",
+	"nyxvector-skin-desc": "גרסה מודרנית של העיצוב \"מונובוק\" עם מראה רענן ושיפורי שמישות רבים",
+	"nyxvector.css": "/* הסגנונות הנכתבים כאן ישפיעו על העיצוב \"וקטור\" בלבד */",
+	"nyxvector.js": "/* כל הסקריפטים הנכתבים כאן ייטענו עבור מי שמשתמש בעיצוב \"וקטור\" בלבד */",
+	"nyxvector-action-addsection": "פסקה חדשה",
+	"nyxvector-action-delete": "מחיקה",
+	"nyxvector-action-move": "העברה",
+	"nyxvector-action-protect": "הגנה",
+	"nyxvector-action-undelete": "שחזור",
+	"nyxvector-action-unprotect": "שינוי הגנה",
+	"nyxvector-view-create": "יצירה",
+	"nyxvector-view-edit": "עריכה",
+	"nyxvector-view-history": "גרסאות קודמות",
+	"nyxvector-view-view": "קריאה",
+	"nyxvector-view-viewsource": "הצגת מקור",
+	"nyxvector-more-actions": "עוד"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aritra",
+			"Ashok modhvadia",
+			"Dsvyas",
+			"KartikMistry"
+		]
+	},
+	"nyxvector-skin-desc": "તાજા દેખાવ અને વધુ ઉપયોગી સુધારાઓ સાથે મોનોબુકની આધુનિક આવૃત્તિ",
+	"nyxvector-action-addsection": "નવો વિષય",
+	"nyxvector-action-delete": "રદ કરો",
+	"nyxvector-action-move": "ખસેડો",
+	"nyxvector-action-protect": "સુરક્ષિત કરો",
+	"nyxvector-action-undelete": "રદ કરેલું પાછું વાળો",
+	"nyxvector-action-unprotect": "સુરક્ષા બદલો",
+	"nyxvector-view-create": "બનાવો",
+	"nyxvector-view-edit": "ફેરફાર કરો",
+	"nyxvector-view-history": "ઇતિહાસ જુઓ",
+	"nyxvector-view-view": "વાંચો",
+	"nyxvector-view-viewsource": "સ્રોત જુઓ",
+	"nyxvector-more-actions": "વધુ"
+}

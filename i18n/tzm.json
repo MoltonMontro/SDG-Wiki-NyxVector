@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Moha",
+			"Tifinaghes",
+			"ⵕⴰⵊⵉ"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"nyxvector-action-delete": "ⵓⴽⵓⵙ",
+	"nyxvector-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"nyxvector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"nyxvector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"nyxvector-view-create": "ⴰⵔⴰ",
+	"nyxvector-view-edit": "ⴱⴷⴷⴻⵍ",
+	"nyxvector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"nyxvector-view-view": "ⵖⵔ",
+	"nyxvector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"nyxvector-more-actions": "ⵓⴳⴳⴰⵔ"
+}

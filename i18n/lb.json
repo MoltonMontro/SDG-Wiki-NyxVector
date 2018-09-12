@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Modern Versioun vu Monobook mat frëschem Look a ville Verbesserunge vun der Benotzerfrëndlechkeet",
+	"nyxvector.css": "/* CSS deen hei steet huet Afloss op all Benotzer vum Ausgesinn NyxVector */",
+	"nyxvector.js": "/* All JavaScript hei gëtt gelueden esoubal ee Benotzer d'Ausgesinn NyxVector benotzt */",
+	"nyxvector-action-addsection": "Sujet dobäisetzen",
+	"nyxvector-action-delete": "Läschen",
+	"nyxvector-action-move": "Réckelen",
+	"nyxvector-action-protect": "Spären",
+	"nyxvector-action-undelete": "Restauréieren",
+	"nyxvector-action-unprotect": "Spär änneren",
+	"nyxvector-view-create": "Uleeën",
+	"nyxvector-view-edit": "Änneren",
+	"nyxvector-view-history": "Versioune weisen",
+	"nyxvector-view-view": "Liesen",
+	"nyxvector-view-viewsource": "Quellcode weisen",
+	"nyxvector-more-actions": "Méi"
+}

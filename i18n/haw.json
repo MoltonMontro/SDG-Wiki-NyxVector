@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"nyxvector-action-addsection": "Hoʻohui kumuhana",
+	"nyxvector-action-delete": "Holoi",
+	"nyxvector-action-move": "E hoʻoneʻe",
+	"nyxvector-action-protect": "E hoʻomalu",
+	"nyxvector-action-undelete": "Holoiʻole",
+	"nyxvector-action-unprotect": "E hoʻololi i ka hoʻomalu",
+	"nyxvector-view-create": "Haku",
+	"nyxvector-view-edit": "Hoʻololi",
+	"nyxvector-view-history": "Nānā i ka mōʻaukala",
+	"nyxvector-view-view": "Heluhelu",
+	"nyxvector-view-viewsource": "Nānā i ke kumu"
+}

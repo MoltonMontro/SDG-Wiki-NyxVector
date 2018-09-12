@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mayooranathan",
+			"Shanmugamp7",
+			"Surya Prakash.S.A.",
+			"TRYPPN",
+			"Jayarathina",
+			"Kaartic",
+			"ElangoRamanujam",
+			"Kanags"
+		]
+	},
+	"nyxvector-action-addsection": "தலைப்பைச் சேர்",
+	"nyxvector-action-delete": "நீக்குக",
+	"nyxvector-action-move": "நகர்த்தவும்",
+	"nyxvector-action-protect": "காக்கவும்",
+	"nyxvector-action-undelete": "நீக்கத்தை நிறுத்து",
+	"nyxvector-action-unprotect": "காப்பை மாற்று",
+	"nyxvector-view-create": "உருவாக்கவும்",
+	"nyxvector-view-edit": "தொகு",
+	"nyxvector-view-history": "வரலாற்றைக் காட்டவும்",
+	"nyxvector-view-view": "படிக்கவும்",
+	"nyxvector-view-viewsource": "மூலத்தைக் காட்டவும்",
+	"nyxvector-more-actions": "மேலும்"
+}

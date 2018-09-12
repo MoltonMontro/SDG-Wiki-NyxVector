@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boukman",
+			"Internoob",
+			"Masterches",
+			"Tisave"
+		]
+	},
+	"nyxvector-action-addsection": "Ajoute yon sijè",
+	"nyxvector-action-delete": "Efase",
+	"nyxvector-action-move": "Chanje non",
+	"nyxvector-action-protect": "Pwoteje",
+	"nyxvector-action-undelete": "Retabli",
+	"nyxvector-action-unprotect": "Pa pwoteje",
+	"nyxvector-view-create": "Kreye",
+	"nyxvector-view-edit": "Modifye",
+	"nyxvector-view-history": "Gade istorik",
+	"nyxvector-view-view": "Li",
+	"nyxvector-view-viewsource": "Wè kòd tèks sa a",
+	"nyxvector-more-actions": "Plis"
+}

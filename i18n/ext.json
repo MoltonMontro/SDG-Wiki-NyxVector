@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Better",
+			"Crucifunked"
+		]
+	},
+	"nyxvector-action-addsection": "Añiil tema",
+	"nyxvector-action-delete": "Esborral",
+	"nyxvector-action-move": "Mual",
+	"nyxvector-action-protect": "Protegel",
+	"nyxvector-action-undelete": "Esborral",
+	"nyxvector-action-unprotect": "Esprotegel",
+	"nyxvector-view-create": "Crial",
+	"nyxvector-view-edit": "Eital",
+	"nyxvector-view-history": "Guipal estorial",
+	"nyxvector-view-view": "Leyel",
+	"nyxvector-view-viewsource": "Guipal cóigu",
+	"nyxvector-more-actions": "Más"
+}

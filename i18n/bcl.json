@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Filipinayzd",
+			"Geopoet"
+		]
+	},
+	"nyxvector-action-addsection": "Idagdag an topic",
+	"nyxvector-action-delete": "puráon",
+	"nyxvector-action-move": "Ibalyó",
+	"nyxvector-action-protect": "Protektaran",
+	"nyxvector-action-undelete": "Bawion sa pagkapara",
+	"nyxvector-action-unprotect": "Ribayan an proteksyon",
+	"nyxvector-view-create": "Magmukna",
+	"nyxvector-view-edit": "Liwatón",
+	"nyxvector-view-history": "Tanawon sa historiya",
+	"nyxvector-view-view": "Basáha",
+	"nyxvector-view-viewsource": "Hilingón an ginikánan",
+	"nyxvector-more-actions": "Kadugangan"
+}

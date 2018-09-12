@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"nyxvector-action-addsection": "Voeg kopje toe",
+	"nyxvector-action-delete": "Wissen",
+	"nyxvector-action-move": "Verschuuf",
+	"nyxvector-action-protect": "Bescherm",
+	"nyxvector-action-undelete": "Plaets truhhe",
+	"nyxvector-action-unprotect": "Beveiligienge anpass'n",
+	"nyxvector-view-create": "Anmaeken",
+	"nyxvector-view-edit": "Bewerk",
+	"nyxvector-view-history": "Geschiedenisse bekiek'n",
+	"nyxvector-view-view": "Lezen",
+	"nyxvector-view-viewsource": "Brontekst bekieken"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imdadb"
+		]
+	},
+	"nyxvector-action-addsection": "Púskun sarhál",
+	"nyxvector-action-delete": "Mesa",
+	"nyxvector-action-move": "Surif",
+	"nyxvector-action-protect": "Rakk",
+	"nyxvector-view-create": "Biná",
+	"nyxvector-view-edit": "Radbadal",
+	"nyxvector-view-history": "Lekav e ur",
+	"nyxvector-view-view": "Xuán",
+	"nyxvector-view-viewsource": "Bumpad e ur",
+	"nyxvector-more-actions": "Pen"
+}

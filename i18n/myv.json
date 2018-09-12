@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo",
+			"Rueter"
+		]
+	},
+	"nyxvector-action-addsection": "Поладомс мезде кортамс",
+	"nyxvector-action-delete": "Нардамс",
+	"nyxvector-action-move": "Печтевтемс",
+	"nyxvector-action-protect": "Аравтомс ванстомас",
+	"nyxvector-action-undelete": "Вельмевтемс нардазенть",
+	"nyxvector-action-unprotect": "Полавтомс ванстоманзо",
+	"nyxvector-view-create": "Теемс-Шкамс",
+	"nyxvector-view-edit": "Витнемс-петнемс",
+	"nyxvector-view-history": "Ваномс юронзо-путовксонзо",
+	"nyxvector-view-view": "Ловномс",
+	"nyxvector-view-viewsource": "Ваномс косто саезь",
+	"nyxvector-more-actions": "Седе ламо"
+}

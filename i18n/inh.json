@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Sapral Mikail",
+			"Умар",
+			"Adam-Yourist",
+			"ElizaMag"
+		]
+	},
+	"nyxvector-action-addsection": "Тема тӀатоха",
+	"nyxvector-action-delete": "ДӀадаккха",
+	"nyxvector-action-move": "ЦӀи хувца",
+	"nyxvector-action-protect": "Лораде",
+	"nyxvector-action-undelete": "Хьаметтаоттаде",
+	"nyxvector-action-unprotect": "Лорадар (гIо) хувца",
+	"nyxvector-view-create": "Хьакхолла",
+	"nyxvector-view-edit": "Нийсде",
+	"nyxvector-view-history": "ОагӀон хувцамаш",
+	"nyxvector-view-view": "Де́ша",
+	"nyxvector-view-viewsource": "Хьалххе бӀаргтохара разметкага хьажар",
+	"nyxvector-more-actions": "Кхы а"
+}

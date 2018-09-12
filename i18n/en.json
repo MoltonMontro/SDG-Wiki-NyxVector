@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Modern version of MonoBook with fresh look and many usability improvements",
+	"nyxvector.css": "/* CSS placed here will affect users of the NyxVector skin */",
+	"nyxvector.js": "/* Any JavaScript here will be loaded for users using the NyxVector skin */",
+	"nyxvector-action-addsection": "Add topic",
+	"nyxvector-action-delete": "Delete",
+	"nyxvector-action-move": "Move",
+	"nyxvector-action-protect": "Protect",
+	"nyxvector-action-undelete": "Undelete",
+	"nyxvector-action-unprotect": "Change protection",
+	"nyxvector-view-create": "Create",
+	"nyxvector-view-edit": "Edit",
+	"nyxvector-view-history": "View history",
+	"nyxvector-view-view": "Read",
+	"nyxvector-view-viewsource": "View source",
+	"nyxvector-more-actions": "More"
+}

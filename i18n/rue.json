@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb",
+			"Tkalyn",
+			"KHMELNYTSKYIA"
+		]
+	},
+	"nyxvector-action-addsection": "Придати тему",
+	"nyxvector-action-delete": "Вымазати",
+	"nyxvector-action-move": "Переменовати",
+	"nyxvector-action-protect": "Всокотити",
+	"nyxvector-action-undelete": "Обновити",
+	"nyxvector-action-unprotect": "Змінити замок",
+	"nyxvector-view-create": "Створити",
+	"nyxvector-view-edit": "Едітовати",
+	"nyxvector-view-history": "Видїти історію",
+	"nyxvector-view-view": "Чітати",
+	"nyxvector-view-viewsource": "Видїти код",
+	"nyxvector-more-actions": "Веце"
+}

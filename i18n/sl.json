@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Smihael",
+			"Yerpo",
+			"Janezdrilc"
+		]
+	},
+	"nyxvector-skin-desc": "Sodobna različica MonoBook s svežim videzom in mnogimi izboljšavami uporabnosti",
+	"nyxvector-action-addsection": "Dodaj temo",
+	"nyxvector-action-delete": "Izbriši",
+	"nyxvector-action-move": "Preimenuj",
+	"nyxvector-action-protect": "Zaščiti",
+	"nyxvector-action-undelete": "Obnovi",
+	"nyxvector-action-unprotect": "Spremeni zaščito",
+	"nyxvector-view-create": "Ustvari",
+	"nyxvector-view-edit": "Uredi",
+	"nyxvector-view-history": "Zgodovina",
+	"nyxvector-view-view": "Preberi",
+	"nyxvector-view-viewsource": "Izvorno besedilo",
+	"nyxvector-more-actions": "Več"
+}

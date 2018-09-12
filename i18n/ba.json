@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Assele",
+			"Haqmar",
+			"Рустам Нурыев",
+			"Sagan"
+		]
+	},
+	"skinname-nyxvector": "Векторлы",
+	"nyxvector-skin-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"nyxvector-action-addsection": "Тема өҫтәргә",
+	"nyxvector-action-delete": "Юйырға",
+	"nyxvector-action-move": "Исемен үҙгәртергә",
+	"nyxvector-action-protect": "Һаҡларға",
+	"nyxvector-action-undelete": "Тергеҙергә",
+	"nyxvector-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"nyxvector-view-create": "Яһау",
+	"nyxvector-view-edit": "Үҙгәртергә",
+	"nyxvector-view-history": "Тарихты ҡарау",
+	"nyxvector-view-view": "Уҡыу",
+	"nyxvector-view-viewsource": "Сығанаҡты ҡарарға",
+	"nyxvector-more-actions": "Тағы"
+}

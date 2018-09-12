@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iketsi",
+			"Wantok"
+		]
+	},
+	"nyxvector-action-delete": "Rausim",
+	"nyxvector-action-move": "Surikim",
+	"nyxvector-action-protect": "Tambuim",
+	"nyxvector-view-create": "Kirapim",
+	"nyxvector-view-edit": "Senisim",
+	"nyxvector-view-history": "Ol senis",
+	"nyxvector-view-view": "Rit",
+	"nyxvector-view-viewsource": "Lukim as tok"
+}

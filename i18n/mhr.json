@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Azim",
+			"Sergey Ivanov",
+			"Сай",
+			"Санюн Вадик"
+		]
+	},
+	"nyxvector-action-addsection": "У ӱжашым тӱҥалаш",
+	"nyxvector-action-delete": "Шӧраш",
+	"nyxvector-action-move": "Лӱмым вашталташ",
+	"nyxvector-action-protect": "Тӧрлатымаш деч аралаш",
+	"nyxvector-action-undelete": "Шӧрымым пӧртылаш",
+	"nyxvector-action-unprotect": "Оролым вашталташ",
+	"nyxvector-view-create": "Ышташ",
+	"nyxvector-view-edit": "Тӧрлаташ",
+	"nyxvector-view-history": "Эртымгорным ончалаш",
+	"nyxvector-view-view": "Лудаш",
+	"nyxvector-view-viewsource": "Тӱҥалтыш текстым ончалаш",
+	"nyxvector-more-actions": "Эше"
+}
