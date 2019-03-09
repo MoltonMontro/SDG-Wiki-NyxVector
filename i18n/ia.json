@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"nyxvector-skin-desc": "Version moderne de MonoBook con aspecto rejuvenescite e multe meliorationes de usabilitate.",
+	"nyxvector.css": "/* Le CSS placiate hic afficera le usatores del apparentia NyxVector */",
+	"nyxvector.js": "/* Omne JavaScript hic se executara pro le usatores del apparentia NyxVector */",
+	"nyxvector-action-addsection": "Adder topico",
+	"nyxvector-action-delete": "Deler",
+	"nyxvector-action-move": "Renominar",
+	"nyxvector-action-protect": "Proteger",
+	"nyxvector-action-undelete": "Restaurar",
+	"nyxvector-action-unprotect": "Cambiar protection",
+	"nyxvector-view-create": "Crear",
+	"nyxvector-view-edit": "Modificar",
+	"nyxvector-view-history": "Vider historia",
+	"nyxvector-view-view": "Leger",
+	"nyxvector-view-viewsource": "Vider texto fonte",
+	"nyxvector-more-actions": "Plus"
+}

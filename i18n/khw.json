@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachitrali"
+		]
+	},
+	"nyxvector-action-addsection": "نوغ موضوع",
+	"nyxvector-action-delete": "بوغاوے",
+	"nyxvector-action-move": "منتقل کورے",
+	"nyxvector-action-protect": "محفوظ کورے",
+	"nyxvector-action-undelete": "اچی انگیے",
+	"nyxvector-action-unprotect": "غیر محفوظ",
+	"nyxvector-view-create": "ساوزاوے",
+	"nyxvector-view-edit": "ایڈٹ کورے",
+	"nyxvector-view-history": "تاریخچہ",
+	"nyxvector-view-view": "راوے",
+	"nyxvector-view-viewsource": "مسودہ",
+	"nyxvector-more-actions": "مزید"
+}

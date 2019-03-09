@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"nyxvector-action-delete": "Verwische",
+	"nyxvector-action-move": "Ziehe",
+	"nyxvector-action-protect": "Schitze",
+	"nyxvector-view-create": "Schtaerte",
+	"nyxvector-view-edit": "Ennere",
+	"nyxvector-view-history": "Gschicht zeige",
+	"nyxvector-view-view": "Lese"
+}

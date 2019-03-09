@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aalam",
+			"Babanwalia",
+			"Raj Singh",
+			"TariButtar",
+			"Tow"
+		]
+	},
+	"nyxvector-skin-desc": "ਮੋਨੋਬੁੱਕ ਦੀ ਆਧੁਨਿਕ ਵਰਜਨ ਜਿਸ ਵਿਚ ਤਾਜ਼ਾ ਦਿੱਖ ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਉਪਯੋਗਤਾ ਸੁਧਾਰ ਹਨ",
+	"nyxvector-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
+	"nyxvector-action-delete": "ਹਟਾਓ",
+	"nyxvector-action-move": "ਭੇਜੋ",
+	"nyxvector-action-protect": "ਸੁਰੱਖਿਆ",
+	"nyxvector-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
+	"nyxvector-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
+	"nyxvector-view-create": "ਬਣਾਓ",
+	"nyxvector-view-edit": "ਸੋਧੋ",
+	"nyxvector-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"nyxvector-view-view": "ਪੜ੍ਹੋ",
+	"nyxvector-view-viewsource": "ਸਰੋਤ ਵੇਖੋ",
+	"nyxvector-more-actions": "ਹੋਰ"
+}

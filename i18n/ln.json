@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin",
+			"Moyogo"
+		]
+	},
+	"nyxvector-action-addsection": "Kobakisa mpɔ̂",
+	"nyxvector-action-delete": "Kolímwisa",
+	"nyxvector-action-move": "Kobóngola nkómbó",
+	"nyxvector-action-protect": "Kobátela",
+	"nyxvector-action-undelete": "Kolímwisa tɛ̂",
+	"nyxvector-action-unprotect": " Kobátela tɛ̂",
+	"nyxvector-view-create": "Kokela",
+	"nyxvector-view-edit": "Kobɔngisa",
+	"nyxvector-view-history": "Komɔ́nisa mokóló",
+	"nyxvector-view-view": "Kotánga",
+	"nyxvector-view-viewsource": "Komɔ́nisa mosólo",
+	"nyxvector-more-actions": "Elandí"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dasius",
+			"GretaDoci",
+			"MicroBoy",
+			"Mikullovci11",
+			"Olsi"
+		]
+	},
+	"nyxvector-action-addsection": "Shto një temë",
+	"nyxvector-action-delete": "Grise",
+	"nyxvector-action-move": "Zhvendose",
+	"nyxvector-action-protect": "Mbroje",
+	"nyxvector-action-undelete": "Anullo fshirjen",
+	"nyxvector-action-unprotect": "Ndrysho mbrojtjen",
+	"nyxvector-view-create": "Krijo",
+	"nyxvector-view-edit": "Redakto",
+	"nyxvector-view-history": "Shiko historikun",
+	"nyxvector-view-view": "Lexo",
+	"nyxvector-view-viewsource": "Shiko tekstin",
+	"nyxvector-more-actions": "Më tepër..."
+}

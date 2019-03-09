@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"nyxvector-action-addsection": "Temu přidać",
+	"nyxvector-action-delete": "wušmórnyć",
+	"nyxvector-action-move": "přesunyć",
+	"nyxvector-action-protect": "škitać",
+	"nyxvector-action-undelete": "Wobnowić",
+	"nyxvector-action-unprotect": "Škit wotstronić",
+	"nyxvector-view-create": "Wutworić",
+	"nyxvector-view-edit": "Wobdźěłać",
+	"nyxvector-view-history": "Stawizny",
+	"nyxvector-view-view": "Čitać",
+	"nyxvector-view-viewsource": "Žórło sej wobhladać",
+	"nyxvector-more-actions": "Wjace"
+}

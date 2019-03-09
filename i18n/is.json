@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Friðrik Bragi Dýrfjörð",
+			"Maxí",
+			"Snævar",
+			"Ævar Arnfjörð Bjarmason",
+			"Sveinn í Felli"
+		]
+	},
+	"skinname-nyxvector": "Vektor",
+	"nyxvector-skin-desc": "Nútímaútgáfa af MonoBook með fersku útliti og mörgum endurbótum á notagildi",
+	"nyxvector.css": "/* Allt CSS sem sett er hér mun  hafa áhrif á alla notendur Vektor-skinnsins. */",
+	"nyxvector.js": "/* Allt JavaScript sem sett er hér mun hafa áhrif á notendur Vektor-skinnsins. */",
+	"nyxvector-action-addsection": "Bæta við umræðu",
+	"nyxvector-action-delete": "Eyða",
+	"nyxvector-action-move": "Færa",
+	"nyxvector-action-protect": "Vernda",
+	"nyxvector-action-undelete": "Hætta við eyðingu",
+	"nyxvector-action-unprotect": "Breyta verndunarstigi",
+	"nyxvector-view-create": "Skapa",
+	"nyxvector-view-edit": "Breyta",
+	"nyxvector-view-history": "Breytingaskrá",
+	"nyxvector-view-view": "Lesa",
+	"nyxvector-view-viewsource": "Sýna frumkóða",
+	"nyxvector-more-actions": "Meira"
+}

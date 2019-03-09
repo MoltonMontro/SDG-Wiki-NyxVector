@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc",
+			"Malekbr",
+			"GeekEmad"
+		]
+	},
+	"nyxvector-action-addsection": "أضف موضوعا",
+	"nyxvector-action-delete": "احذف",
+	"nyxvector-action-move": "انقل",
+	"nyxvector-action-protect": "احم",
+	"nyxvector-action-undelete": "استرجع الحذف",
+	"nyxvector-action-unprotect": "غير الحماية",
+	"nyxvector-view-create": "أنشئ",
+	"nyxvector-view-edit": "Baddel",
+	"nyxvector-view-history": "Warri listorik",
+	"nyxvector-view-view": "Aqrê",
+	"nyxvector-view-viewsource": "اعرض المصدر",
+	"nyxvector-more-actions": "Akŧar"
+}

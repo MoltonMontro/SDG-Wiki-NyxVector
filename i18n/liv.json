@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Warbola",
+			"Kengšepā"
+		]
+	},
+	"nyxvector-action-addsection": "Pan jūrõ tēma",
+	"nyxvector-action-delete": "Kištāntõgid jarā",
+	"nyxvector-action-move": "Vīž jarā",
+	"nyxvector-action-protect": "Kaitsõmi",
+	"nyxvector-view-create": "Lūo",
+	"nyxvector-view-edit": "Redigīer",
+	"nyxvector-view-history": "Nägţ istōrijõ",
+	"nyxvector-view-view": "Vaņțõl",
+	"nyxvector-view-viewsource": "Vaņ ovāt tekstõ"
+}

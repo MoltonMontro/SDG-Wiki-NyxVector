@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"nyxvector-action-addsection": "Abschnitt zuefiege",
+	"nyxvector-action-delete": "Lesche",
+	"nyxvector-action-move": "Verschiebe",
+	"nyxvector-action-protect": "Schitze",
+	"nyxvector-action-undelete": "Widerhärstelle",
+	"nyxvector-action-unprotect": "Syteschutz ändere",
+	"nyxvector-view-create": "Aalege",
+	"nyxvector-view-edit": "Bearbeite",
+	"nyxvector-view-history": "Versionsgschicht",
+	"nyxvector-view-view": "Läse",
+	"nyxvector-view-viewsource": "Quälltext aaluege",
+	"nyxvector-more-actions": "Meh"
+}

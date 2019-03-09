@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felis",
+			"Jun Misugi"
+		]
+	},
+	"nyxvector-action-addsection": "Aggiungì oggettu",
+	"nyxvector-action-delete": "Canzella",
+	"nyxvector-action-move": "Ippustha",
+	"nyxvector-action-protect": "Pruteggì",
+	"nyxvector-view-create": "Cria",
+	"nyxvector-view-edit": "Mudifigga",
+	"nyxvector-view-history": "Vèdi isthòria",
+	"nyxvector-view-view": "Leggi",
+	"nyxvector-view-viewsource": "Vèdi fonti"
+}

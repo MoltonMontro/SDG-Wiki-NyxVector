@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor",
+			"Beyronvan"
+		]
+	},
+	"nyxvector-action-addsection": "داسون اضاف بكيد",
+	"nyxvector-action-delete": "پاکسا کردن",
+	"nyxvector-action-move": "جاوه جا بوئيت",
+	"nyxvector-action-protect": "پر و پیم بكيد",
+	"nyxvector-action-undelete": "حذف نبيئني",
+	"nyxvector-action-unprotect": "حمايت آلشت بكيد",
+	"nyxvector-view-create": "راس كردن",
+	"nyxvector-view-edit": "ڤیرایشت",
+	"nyxvector-view-history": "دیاٛن ڤیرگار",
+	"nyxvector-view-view": "هنن",
+	"nyxvector-view-viewsource": "سرچشمه نه بوينيت",
+	"nyxvector-more-actions": "بیشتر"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ganesh",
+			"Nepaboy",
+			"SatyamMishra"
+		]
+	},
+	"nyxvector-action-addsection": "बिसय जोड़ीं",
+	"nyxvector-action-delete": "मिटाईं",
+	"nyxvector-action-move": "स्थानांतरण",
+	"nyxvector-action-protect": "संरक्षित करीं",
+	"nyxvector-action-undelete": "मत मिटाईं",
+	"nyxvector-action-unprotect": "सुरक्षा बदलीं",
+	"nyxvector-view-create": "बनाईं",
+	"nyxvector-view-edit": "संपादन",
+	"nyxvector-view-history": "इतिहास देखीं",
+	"nyxvector-view-view": "पढ़ीं",
+	"nyxvector-view-viewsource": "स्रोत देखीं",
+	"nyxvector-more-actions": "अधिका"
+}

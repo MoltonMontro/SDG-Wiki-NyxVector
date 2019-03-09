@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"E THP",
+			"Ebrahimi-amir",
+			"Mousa",
+			"Amir a57",
+			"Alp Er Tunqa",
+			"Ilğım"
+		]
+	},
+	"nyxvector-action-addsection": "قوْنو آرتیر",
+	"nyxvector-action-delete": "سیل",
+	"nyxvector-action-move": "داشی",
+	"nyxvector-action-protect": "قوْرو",
+	"nyxvector-action-undelete": "سیلمگی قایتار",
+	"nyxvector-action-unprotect": "قوْروماغی دَییشدیر",
+	"nyxvector-view-create": "یارات",
+	"nyxvector-view-edit": "دَییشدیر",
+	"nyxvector-view-history": "گئچمیشه باخ",
+	"nyxvector-view-view": "اوْخو",
+	"nyxvector-view-viewsource": "قایناغا باخ",
+	"nyxvector-more-actions": "داها"
+}

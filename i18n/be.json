@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikalai Udodau",
+			"Yury Tarasievich",
+			"Дзяніс Тутэйшы",
+			"Хомелка"
+		]
+	},
+	"nyxvector-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
+	"nyxvector-action-addsection": "Дадаць тэму",
+	"nyxvector-action-delete": "Сцерці",
+	"nyxvector-action-move": "Перанесці",
+	"nyxvector-action-protect": "Ахова",
+	"nyxvector-action-undelete": "Аднавіць",
+	"nyxvector-action-unprotect": "Змяніць ахову",
+	"nyxvector-view-create": "Стварыць",
+	"nyxvector-view-edit": "Правіць",
+	"nyxvector-view-history": "Паказаць гісторыю",
+	"nyxvector-view-view": "Чытаць",
+	"nyxvector-view-viewsource": "Паказаць зыходны тэкст",
+	"nyxvector-more-actions": "Яшчэ"
+}

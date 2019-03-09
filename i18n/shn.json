@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saiddzone",
+			"Saimawnkham"
+		]
+	},
+	"nyxvector-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
+	"nyxvector-action-delete": "မွတ်ႇပႅတ်ႈ",
+	"nyxvector-action-move": "ၶၢႆႉ",
+	"nyxvector-action-protect": "ႁေႉၵင်ႈ",
+	"nyxvector-view-create": "သၢင်ႈ",
+	"nyxvector-view-edit": "မူၼ်ႉမႄး",
+	"nyxvector-view-history": "တူၺ်းပိုၼ်း",
+	"nyxvector-view-view": "လူတူၺ်း",
+	"nyxvector-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ",
+	"nyxvector-more-actions": "ၼမ်လိူဝ်"
+}

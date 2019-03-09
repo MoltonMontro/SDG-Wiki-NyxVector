@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Vinhtantran",
+			"Withoutaname",
+			"Trần Nguyễn Minh Huy"
+		]
+	},
+	"skinname-nyxvector": "Vectơ",
+	"nyxvector-skin-desc": "Giao diện làm lại từ MonoBook có màu tươi và khả dụng hơn",
+	"nyxvector.css": "/* Mã CSS đặt ở đây sẽ ảnh hưởng đến thành viên sử dụng giao diện Vectơ */",
+	"nyxvector.js": "/* Mã JavaScript tại đây sẽ được tải khi người dùng sử dụng giao diện Vectơ */",
+	"nyxvector-action-addsection": "Thêm đề tài",
+	"nyxvector-action-delete": "Xóa",
+	"nyxvector-action-move": "Di chuyển",
+	"nyxvector-action-protect": "Khóa",
+	"nyxvector-action-undelete": "Phục hồi",
+	"nyxvector-action-unprotect": "Đổi mức khóa",
+	"nyxvector-view-create": "Tạo",
+	"nyxvector-view-edit": "Sửa đổi",
+	"nyxvector-view-history": "Xem lịch sử",
+	"nyxvector-view-view": "Đọc",
+	"nyxvector-view-viewsource": "Xem mã nguồn",
+	"nyxvector-more-actions": "Khác"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai",
+			"आलोक",
+			"रोहित रावत",
+			"Sfic"
+		]
+	},
+	"skinname-nyxvector": "वेक्टर",
+	"nyxvector-skin-desc": "मोनोबूक का आधुनिक संस्करण, जो ताजा रूप में और उपयोग में सुधार के साथ है।",
+	"nyxvector.css": "/* सीएसएस यहाँ डालने से वेक्टर त्वचा चुने लोगों को प्रभावित करेगा */",
+	"nyxvector-action-addsection": "विषय जोड़ें",
+	"nyxvector-action-delete": "हटाएँ",
+	"nyxvector-action-move": "स्थानांतरण करें",
+	"nyxvector-action-protect": "सुरक्षित करें",
+	"nyxvector-action-undelete": "हटाना वापस लें",
+	"nyxvector-action-unprotect": "सुरक्षा बदलें",
+	"nyxvector-view-create": "बनाएँ",
+	"nyxvector-view-edit": "सम्पादन",
+	"nyxvector-view-history": "इतिहास देखें",
+	"nyxvector-view-view": "पढ़ें",
+	"nyxvector-view-viewsource": "स्रोत देखें",
+	"nyxvector-more-actions": "अधिक"
+}
