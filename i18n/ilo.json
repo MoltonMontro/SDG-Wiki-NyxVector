@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang",
+			"Saluyot"
+		]
+	},
+	"nyxvector-skin-desc": "Moderno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
+	"nyxvector-action-addsection": "Agnayon iti topiko",
+	"nyxvector-action-delete": "Ikkaten",
+	"nyxvector-action-move": "Iyalis",
+	"nyxvector-action-protect": "Salakniban",
+	"nyxvector-action-undelete": "Isubli ti inikkat",
+	"nyxvector-action-unprotect": "Baliwan ti salaknib",
+	"nyxvector-view-create": "Agpartuat",
+	"nyxvector-view-edit": "Urnosen",
+	"nyxvector-view-history": "Kitaen ti pakasaritaan",
+	"nyxvector-view-view": "Basaen",
+	"nyxvector-view-viewsource": "Kitaen ti taudan",
+	"nyxvector-more-actions": "Adu pay"
+}

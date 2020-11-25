@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sasan700",
+			"Умар",
+			"Исмаил Садуев"
+		]
+	},
+	"skinname-nyxvector": "Векторан",
+	"nyxvector-skin-desc": "ХӀокху хенан MonoBook-ан верси кечдинчу карладахаршца а, дуккха а тодаршца юзабилити чохь",
+	"nyxvector-action-addsection": "Тема тӀетоха",
+	"nyxvector-action-delete": "ДӀаяккхар",
+	"nyxvector-action-move": "ЦӀе хийцар",
+	"nyxvector-action-protect": "Ларъяр",
+	"nyxvector-action-undelete": "МеттахӀоттае",
+	"nyxvector-action-unprotect": "Ларъяр хийцар",
+	"nyxvector-view-create": "Кхоллар",
+	"nyxvector-view-edit": "Нисъе",
+	"nyxvector-view-history": "АгӀона хийцамаш",
+	"nyxvector-view-view": "Éшар",
+	"nyxvector-view-viewsource": "Билглонашка хьажа",
+	"nyxvector-more-actions": "Кхин"
+}

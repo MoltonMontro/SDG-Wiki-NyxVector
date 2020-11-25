@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mdkidiri"
+		]
+	},
+	"nyxvector-action-addsection": "Zîa mbênî lilö daä",
+	"nyxvector-action-delete": "Lungûla",
+	"nyxvector-action-move": "Sanzêe ïrï",
+	"nyxvector-action-protect": "Funga",
+	"nyxvector-action-undelete": "Kîri na nî",
+	"nyxvector-action-unprotect": "Sanzêe fungä",
+	"nyxvector-view-create": "Seka",
+	"nyxvector-view-edit": "Sepe",
+	"nyxvector-view-history": "Tanda mbai nî",
+	"nyxvector-view-view": "Dîko",
+	"nyxvector-view-viewsource": "Fa ligbî nî"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boulaur",
+			"Cedric31"
+		]
+	},
+	"nyxvector.css": "/* Lo CSS plaçat aicí afectarà los utilizaires de l’abilhatge NyxVector */",
+	"nyxvector.js": "/* Tot JavaScript aicí serà cargat amb las paginas accedidas pels utilizaires de l’abilhatge NyxVector unicament. */",
+	"nyxvector-action-addsection": "Apondre un subjècte",
+	"nyxvector-action-delete": "Suprimir",
+	"nyxvector-action-move": "Renomenar",
+	"nyxvector-action-protect": "Protegir",
+	"nyxvector-action-undelete": "Restablir",
+	"nyxvector-action-unprotect": "Suprimir la proteccion",
+	"nyxvector-view-create": "Crear",
+	"nyxvector-view-edit": "Modificar",
+	"nyxvector-view-history": "Veire l'istoric",
+	"nyxvector-view-view": "Legir",
+	"nyxvector-view-viewsource": "Veire la font",
+	"nyxvector-more-actions": "Mai"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Harahap",
+			"WBT003Bugari",
+			"WBT006Hendra",
+			"WBT009Anju"
+		]
+	},
+	"nyxvector-action-addsection": "Bagian na imbaru",
+	"nyxvector-action-delete": "Sesa",
+	"nyxvector-action-move": "Pahusor",
+	"nyxvector-action-protect": "Ramoti",
+	"nyxvector-action-undelete": "unang sesa",
+	"nyxvector-action-unprotect": "Uba parlindungan",
+	"nyxvector-view-create": "Tompa",
+	"nyxvector-view-edit": "Paubah",
+	"nyxvector-view-history": "Patudu andorang na",
+	"nyxvector-view-view": "Jaha",
+	"nyxvector-view-viewsource": "Ida haroanna"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gmelfi",
+			"Melos",
+			"Pippinu",
+			"Sarvaturi"
+		]
+	},
+	"nyxvector-skin-desc": "Virsioni muderna di MonoBook cu n'aspettu novu e tanti migghiuramenti nta l'usabbilità",
+	"nyxvector-action-addsection": "Agghiunci n'argumentu",
+	"nyxvector-action-delete": "Cancella",
+	"nyxvector-action-move": "Sposta",
+	"nyxvector-action-protect": "Pruteggi",
+	"nyxvector-action-undelete": "Annulla la cancillazzioni",
+	"nyxvector-action-unprotect": "Cancia la prutizzioni",
+	"nyxvector-view-create": "Crea",
+	"nyxvector-view-edit": "Cancia",
+	"nyxvector-view-history": "Talìa la crunuluggìa",
+	"nyxvector-view-view": "Leggi",
+	"nyxvector-view-viewsource": "Talìa la surgenti",
+	"nyxvector-more-actions": "Àutri cosi"
+}

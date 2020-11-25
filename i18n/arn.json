@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Clerc",
+			"Fiestoforo"
+		]
+	},
+	"nyxvector-action-addsection": "Püñamtun dungu",
+	"nyxvector-action-delete": "Liftun",
+	"nyxvector-action-move": "Wiñamün",
+	"nyxvector-action-protect": "Nürüfkünun",
+	"nyxvector-action-undelete": "Wüñoñamümün",
+	"nyxvector-action-unprotect": "Kalekünun Nürüfkünun",
+	"nyxvector-view-create": "Dewman",
+	"nyxvector-view-edit": "Kümeelün",
+	"nyxvector-view-history": "Pengelün rupañmael",
+	"nyxvector-view-view": "Chillkatun",
+	"nyxvector-view-viewsource": "Kimam chew küpan chi wirin",
+	"nyxvector-more-actions": "Doy"
+}

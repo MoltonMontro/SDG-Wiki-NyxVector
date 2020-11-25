@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gastaz",
+			"Giromin Cangiaxo",
+			"S4b1nuz E.656"
+		]
+	},
+	"nyxvector-action-addsection": "Azónzi discusción",
+	"nyxvector-action-delete": "Scancella",
+	"nyxvector-action-move": "Mescia",
+	"nyxvector-action-protect": "Protezi",
+	"nyxvector-action-undelete": "Recuppera",
+	"nyxvector-action-unprotect": "Cangia a proteçion",
+	"nyxvector-view-create": "Crea",
+	"nyxvector-view-edit": "Modìfica",
+	"nyxvector-view-history": "Cronologîa",
+	"nyxvector-view-view": "Lêzi",
+	"nyxvector-view-viewsource": "Vixualizza wikitesto",
+	"nyxvector-more-actions": "Âtro"
+}

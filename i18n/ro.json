@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"AdiJapan",
+			"Danutz",
+			"Firilacroco",
+			"Minisarm",
+			"Strainu",
+			"ImGelu"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Versiunea modernă pentru MonoBook cu o înfățișare reîmprospătată și multe îmbunătățiri de uzabilitate",
+	"nyxvector.css": "/* CSS plasate aici vor afecta utilizatorii stilului NyxVector */",
+	"nyxvector-action-addsection": "Mesaj nou",
+	"nyxvector-action-delete": "Ștergere",
+	"nyxvector-action-move": "Redenumire",
+	"nyxvector-action-protect": "Protejare",
+	"nyxvector-action-undelete": "Recuperare",
+	"nyxvector-action-unprotect": "Modificare protecție",
+	"nyxvector-view-create": "Creare",
+	"nyxvector-view-edit": "Modificare",
+	"nyxvector-view-history": "Istoric",
+	"nyxvector-view-view": "Lectură",
+	"nyxvector-view-viewsource": "Sursă pagină",
+	"nyxvector-more-actions": "Mai mult"
+}

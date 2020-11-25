@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paul Beppler",
+			"Midnight Gambler"
+		]
+	},
+	"nyxvector-action-addsection": "Abschnitt hinzufüche",
+	"nyxvector-action-delete": "Lösche",
+	"nyxvector-action-move": "Verschiebe",
+	"nyxvector-action-protect": "Schütz",
+	"nyxvector-action-undelete": "Wiederherstelle",
+	"nyxvector-action-unprotect": "Seiteschutz ännre",
+	"nyxvector-view-create": "Erstell",
+	"nyxvector-view-edit": "Beoorbeite",
+	"nyxvector-view-history": "Versionsgeschicht",
+	"nyxvector-view-view": "Lese",
+	"nyxvector-view-viewsource": "Quelltext oonzeiche",
+	"nyxvector-more-actions": "Meahr"
+}

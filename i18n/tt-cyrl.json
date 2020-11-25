@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro",
+			"Rinatus",
+			"Ильнар",
+			"Рашат Якупов",
+			"Derslek"
+		]
+	},
+	"skinname-nyxvector": "Сызымлы",
+	"nyxvector-skin-desc": "Хәзерге заманга туры килгән MonoBook күренеше, яңа бизәлеш һәм яңа мөмкинлекләр",
+	"nyxvector-action-addsection": "Яңа тема өстәү",
+	"nyxvector-action-delete": "Бетерү",
+	"nyxvector-action-move": "Күчерү",
+	"nyxvector-action-protect": "Яклау",
+	"nyxvector-action-undelete": "Кайтару",
+	"nyxvector-action-unprotect": "Яклауны үзгәртү",
+	"nyxvector-view-create": "Төзү",
+	"nyxvector-view-edit": "Үзгәртү",
+	"nyxvector-view-history": "Тарихын карау",
+	"nyxvector-view-view": "Уку",
+	"nyxvector-view-viewsource": "Чыганагын карау",
+	"nyxvector-more-actions": "Тагын"
+}

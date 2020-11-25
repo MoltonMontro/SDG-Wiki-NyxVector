@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro"
+		]
+	},
+	"nyxvector-action-addsection": "Mevzu qoş",
+	"nyxvector-action-delete": "Yoq et",
+	"nyxvector-action-move": "Adını deñiştir",
+	"nyxvector-action-protect": "Qorçala",
+	"nyxvector-action-undelete": "Yañıdan yarat",
+	"nyxvector-action-unprotect": "Qorçalavnı deñiştir",
+	"nyxvector-view-create": "Yarat",
+	"nyxvector-view-edit": "Deñiştir",
+	"nyxvector-view-history": "Keçmişini köster",
+	"nyxvector-view-view": "Oqu",
+	"nyxvector-view-viewsource": "Menba kodunı köster",
+	"nyxvector-more-actions": "Başqa areketler"
+}

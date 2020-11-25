@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aleator",
+			"Anskar",
+			"Calak",
+			"Paucabot",
+			"Ssola",
+			"Vriullop",
+			"Toniher",
+			"Fitoschido",
+			"Abella"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"nyxvector-action-addsection": "Afegeix un tema",
+	"nyxvector-action-delete": "Esborra",
+	"nyxvector-action-move": "Reanomena",
+	"nyxvector-action-protect": "Protegeix",
+	"nyxvector-action-undelete": "Restaura",
+	"nyxvector-action-unprotect": "Desprotegeix",
+	"nyxvector-view-create": "Crea",
+	"nyxvector-view-edit": "Modifica",
+	"nyxvector-view-history": "Mostra l’historial",
+	"nyxvector-view-view": "Mostra",
+	"nyxvector-view-viewsource": "Mostra el codi",
+	"nyxvector-more-actions": "Més"
+}

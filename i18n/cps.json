@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Capisano",
+			"Oxyzen"
+		]
+	},
+	"nyxvector-action-addsection": "Magdugang sang topiko",
+	"nyxvector-action-delete": "Panason",
+	"nyxvector-action-move": "Isdogon",
+	"nyxvector-action-protect": "Protektahan",
+	"nyxvector-action-undelete": "Indi pag panason",
+	"nyxvector-action-unprotect": "Islan ang proteksyon",
+	"nyxvector-view-create": "Ubrahon",
+	"nyxvector-view-edit": "Bag-uhon",
+	"nyxvector-view-history": "Ipakita ang kasaysayan",
+	"nyxvector-view-view": "Basahon",
+	"nyxvector-view-viewsource": "Lantawon ang ginhalinan"
+}

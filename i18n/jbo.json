@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gleki"
+		]
+	},
+	"skinname-nyxvector": "la vektor",
+	"nyxvector-skin-desc": "cabna versiio la monobuk i vifne tarmi i so'i da nu xamgu zenba",
+	"nyxvector-action-addsection": "jmina lo se casnu pagbu",
+	"nyxvector-action-delete": "vimcu",
+	"nyxvector-action-move": "stika lo cmene",
+	"nyxvector-action-protect": "co'a bandu",
+	"nyxvector-action-undelete": "ca'o nai vimcu",
+	"nyxvector-action-unprotect": "co'u bandu",
+	"nyxvector-view-create": "zbasu",
+	"nyxvector-view-edit": "stika",
+	"nyxvector-view-history": "citri lo papri",
+	"nyxvector-view-view": "tcidu",
+	"nyxvector-view-viewsource": "cpacu lo krasi",
+	"nyxvector-more-actions": "ji'a"
+}

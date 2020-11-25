@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7",
+			"Ilja.mos",
+			"Likopiän tyttö",
+			"Varvana"
+		]
+	},
+	"nyxvector-action-addsection": "Lisyä teema",
+	"nyxvector-action-move": "Šiirrä",
+	"nyxvector-view-create": "Luaji",
+	"nyxvector-view-edit": "Kohentele",
+	"nyxvector-view-history": "Näytä istorija",
+	"nyxvector-view-view": "Luve",
+	"nyxvector-more-actions": "Vielä"
+}

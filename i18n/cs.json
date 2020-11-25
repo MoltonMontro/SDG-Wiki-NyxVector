@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"skinname-nyxvector": "Vektor",
+	"nyxvector-skin-desc": "Moderní verze MonoBooku s novějším vzhledem a vylepšenou použitelností",
+	"nyxvector.css": "/* Zde uvedené CSS bude ovlivňovat pouze styl „Vektor“ */",
+	"nyxvector.js": "/* JavaScript pro uživatele používající vzhled „Vektor“ */",
+	"nyxvector-action-addsection": "Přidat téma",
+	"nyxvector-action-delete": "Smazat",
+	"nyxvector-action-move": "Přesunout",
+	"nyxvector-action-protect": "Zamknout",
+	"nyxvector-action-undelete": "Obnovit",
+	"nyxvector-action-unprotect": "Změnit zámek",
+	"nyxvector-view-create": "Založit",
+	"nyxvector-view-edit": "Editovat",
+	"nyxvector-view-history": "Zobrazit historii",
+	"nyxvector-view-view": "Číst",
+	"nyxvector-view-viewsource": "Zobrazit zdrojový kód",
+	"nyxvector-more-actions": "Další"
+}

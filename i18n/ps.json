@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"skinname-nyxvector": "وېکټور",
+	"nyxvector.css": "/* د CSS هره بڼه چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"nyxvector.js": "/* د جاوا هر يو سکرېپټ چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"nyxvector-action-addsection": "سرليک ورگډول",
+	"nyxvector-action-delete": "ړنگول",
+	"nyxvector-action-move": "لېږدول",
+	"nyxvector-action-protect": "ژغورل",
+	"nyxvector-action-undelete": "ناړنگول",
+	"nyxvector-action-unprotect": "ژغورنه بدلول",
+	"nyxvector-view-create": "جوړول",
+	"nyxvector-view-edit": "سمول",
+	"nyxvector-view-history": "پېښليک کتل",
+	"nyxvector-view-view": "لوستل",
+	"nyxvector-view-viewsource": "سرچينه کتل",
+	"nyxvector-more-actions": "نور"
+}
