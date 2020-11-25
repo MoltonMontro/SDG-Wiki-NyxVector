@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bua333",
+			"Mucalexx"
+		]
+	},
+	"nyxvector-action-addsection": "An Obschnitt dazua doa",
+	"nyxvector-action-delete": "Leschn",
+	"nyxvector-action-move": "Vaschiabm",
+	"nyxvector-action-protect": "Schitzn",
+	"nyxvector-action-undelete": "Wiederherstön",
+	"nyxvector-action-unprotect": "freigeem",
+	"nyxvector-view-create": "Aufbaun",
+	"nyxvector-view-edit": "Werkln",
+	"nyxvector-view-history": "Gschicht oschaugn",
+	"nyxvector-view-view": "Lesn",
+	"nyxvector-view-viewsource": "Quejtext ozoagn"
+}

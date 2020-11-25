@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amdf"
+		]
+	},
+	"nyxvector-action-delete": "Карангдаш",
+	"nyxvector-action-move": "Лӹмӹм вашталташ",
+	"nyxvector-action-protect": "Ӹшӹклӓш",
+	"nyxvector-view-create": "Ӹштӓш",
+	"nyxvector-view-edit": "Тӧрлӹмӓш",
+	"nyxvector-view-history": "Историм анжымаш",
+	"nyxvector-view-view": "Лыдмаш",
+	"nyxvector-view-viewsource": "Сек пӹтӓриш кодым анжалаш"
+}

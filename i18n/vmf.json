@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvicola"
+		]
+	},
+	"nyxvector.css": "/* CSS hiir beâjflusd nôr dii NyxVector-schelfn. Wen'd ale uf ôômôôl beâjflusn wilsch, muâsch an MediaWiki:Common.css was ändârn. */",
+	"nyxvector-action-addsection": "Ân najn abschnid ôôfangn",
+	"nyxvector-action-delete": "Leschn",
+	"nyxvector-action-move": "Umdaafn",
+	"nyxvector-action-protect": "Schidsn",
+	"nyxvector-action-undelete": "Leschn riggängich machn",
+	"nyxvector-action-unprotect": "Schuds ufgeebn",
+	"nyxvector-view-create": "Ôôleechn",
+	"nyxvector-view-edit": "Bearbajdn",
+	"nyxvector-view-history": "Wärsjoonsfolche",
+	"nyxvector-view-view": "Leesn",
+	"nyxvector-view-viewsource": "Gwäl-dhägsd ôôgugn"
+}

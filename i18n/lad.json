@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Universal Life"
+		]
+	},
+	"nyxvector-action-addsection": "Ajustar sujeto",
+	"nyxvector-action-delete": "Efassar",
+	"nyxvector-action-move": "Taşirear",
+	"nyxvector-action-protect": "Guadrar",
+	"nyxvector-action-undelete": "Traer atrás",
+	"nyxvector-action-unprotect": "Trocar proteksyon",
+	"nyxvector-view-create": "Criar",
+	"nyxvector-view-edit": "Trocar",
+	"nyxvector-view-history": "Ver la istoria",
+	"nyxvector-view-view": "Meldar",
+	"nyxvector-view-viewsource": "Ver su manadero",
+	"nyxvector-more-actions": "Mas"
+}

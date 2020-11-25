@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arlin",
+			"Sahran",
+			"Tel'et",
+			"Uzdil"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector.css": "/* CSS placed here will affect users of the NyxVector skin */",
+	"nyxvector.js": "/* Any JavaScript here will be loaded for users using the NyxVector skin */",
+	"nyxvector-action-addsection": "يېڭى تېما قوش",
+	"nyxvector-action-delete": "ئۆچۈر",
+	"nyxvector-action-move": "يۆتكە",
+	"nyxvector-action-protect": "قوغدا",
+	"nyxvector-action-undelete": "ئەسلىگە قايتۇر",
+	"nyxvector-action-unprotect": "قوغداش ئۆزگەرت",
+	"nyxvector-view-create": "قۇر",
+	"nyxvector-view-edit": "تەھرىرلەش",
+	"nyxvector-view-history": "تارىخ كۆرسەت",
+	"nyxvector-view-view": "ئوقۇ",
+	"nyxvector-view-viewsource": "مەنبەنى كۆرسەت",
+	"nyxvector-more-actions": "تېخىمۇ كۆپ"
+}

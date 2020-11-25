@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84",
+			"Rudko",
+			"Sudo77(new)",
+			"KuboF",
+			"Mikulas1"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Moderná verzia MonoBooku so sviežim vzhľadom a vylepšenou použiteľnosťou",
+	"nyxvector.css": "/* Tu umiestnené CSS bude ovplyvňovať používateľov štýlu NyxVector */",
+	"nyxvector.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu NyxVector */",
+	"nyxvector-action-addsection": "Pridať tému",
+	"nyxvector-action-delete": "Zmazať",
+	"nyxvector-action-move": "Presunúť",
+	"nyxvector-action-protect": "Zamknúť",
+	"nyxvector-action-undelete": "Obnoviť",
+	"nyxvector-action-unprotect": "Zmeniť stav ochrany",
+	"nyxvector-view-create": "Vytvoriť",
+	"nyxvector-view-edit": "Upraviť",
+	"nyxvector-view-history": "Zobraziť históriu",
+	"nyxvector-view-view": "Čítať",
+	"nyxvector-view-viewsource": "Zobraziť zdroj",
+	"nyxvector-more-actions": "Viac"
+}

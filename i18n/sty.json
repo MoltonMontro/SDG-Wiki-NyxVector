@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khanmarat"
+		]
+	},
+	"nyxvector-action-addsection": "Тема өстәгәле",
+	"nyxvector-action-delete": "Йуҡ иткәле",
+	"nyxvector-action-move": "Исемне алмаштырғалы",
+	"nyxvector-action-protect": "Йаҡлағалы",
+	"nyxvector-view-create": "Ҡылғалы",
+	"nyxvector-view-edit": "Төсәткәле",
+	"nyxvector-view-history": "Тариҡны ҡарағалы",
+	"nyxvector-view-view": "Уғығалы",
+	"nyxvector-more-actions": "Тағын"
+}

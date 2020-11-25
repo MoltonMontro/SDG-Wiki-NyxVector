@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hanberke"
+		]
+	},
+	"nyxvector-action-addsection": "Tema goş",
+	"nyxvector-action-delete": "Öçür",
+	"nyxvector-action-move": "Adyny üýtget",
+	"nyxvector-action-protect": "Goraga al",
+	"nyxvector-action-undelete": "Öçürmäni yzyna al",
+	"nyxvector-action-unprotect": "Goragy üýtget",
+	"nyxvector-view-create": "Döret",
+	"nyxvector-view-edit": "Üýtget",
+	"nyxvector-view-history": "Taryhy gör",
+	"nyxvector-view-view": "Oka",
+	"nyxvector-view-viewsource": "Çeşmäni gör"
+}

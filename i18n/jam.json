@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hazard-SJ",
+			"Yocahuna",
+			"Katxis"
+		]
+	},
+	"nyxvector-action-addsection": "Ad tapik",
+	"nyxvector-action-delete": "Diliit",
+	"nyxvector-action-move": "Muuv",
+	"nyxvector-action-protect": "Protek",
+	"nyxvector-action-undelete": "Andiliit",
+	"nyxvector-action-unprotect": "Neu protektian",
+	"nyxvector-view-create": "Kriet",
+	"nyxvector-view-edit": "Hedit",
+	"nyxvector-view-history": "Vyuu ischri",
+	"nyxvector-view-view": "Riid",
+	"nyxvector-view-viewsource": "Vyuu Suos",
+	"nyxvector-more-actions": "Muo"
+}

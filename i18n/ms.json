@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Aurora",
+			"Pizza1016"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Versi MonoBook yang moden dengan rupa yang segar dan banyak pembaikan kepada kegunaan.",
+	"nyxvector.css": "/* CSS yang terletak di sini akan mempengaruhi pengguna kulit NyxVector */",
+	"nyxvector.js": "/ * Sebarang JavaScript di sini akan dimuatkan untuk pengguna-pengguna yang menggunakan kulit NyxVector * /",
+	"nyxvector-action-addsection": "Buka topik",
+	"nyxvector-action-delete": "Hapus",
+	"nyxvector-action-move": "Pindah",
+	"nyxvector-action-protect": "Lindung",
+	"nyxvector-action-undelete": "Nyahhapus",
+	"nyxvector-action-unprotect": "Ubah perlindungan",
+	"nyxvector-view-create": "Cipta",
+	"nyxvector-view-edit": "Sunting",
+	"nyxvector-view-history": "Lihat sejarah",
+	"nyxvector-view-view": "Baca",
+	"nyxvector-view-viewsource": "Lihat sumber",
+	"nyxvector-more-actions": "Lain"
+}

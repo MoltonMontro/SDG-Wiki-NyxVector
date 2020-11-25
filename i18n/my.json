@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lionslayer",
+			"Myanmars",
+			"Ninjastrikers",
+			"Penguinlay"
+		]
+	},
+	"nyxvector-action-addsection": "အကြောင်းအရာအသစ် ထပ်ထည့်ရန်",
+	"nyxvector-action-delete": "ဖျက်​ပါ​",
+	"nyxvector-action-move": "ရွှေ့ပါ",
+	"nyxvector-action-protect": "ကာကွယ်ပါ",
+	"nyxvector-action-undelete": "မဖျက်တော့ရန်",
+	"nyxvector-action-unprotect": "ကာကွယ်ခြင်းကို ပြောင်းလဲရန်",
+	"nyxvector-view-create": "စတင်ရေးသားရန်",
+	"nyxvector-view-edit": "ပြင်ဆင်ရန်",
+	"nyxvector-view-history": "ရာဇဝင်ကြည့်ရန်",
+	"nyxvector-view-view": "ဖတ်ရန်",
+	"nyxvector-view-viewsource": "ရင်းမြစ်ကို ကြည့်ရန်",
+	"nyxvector-more-actions": "ပို၍"
+}

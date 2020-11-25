@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Ebraminio",
+			"Huji",
+			"Reza1615",
+			"Zack90",
+			"DEXi"
+		]
+	},
+	"skinname-nyxvector": "برداری",
+	"nyxvector-skin-desc": "نسخهٔ مدرن مونوبوک با نمای جدید و بهینه‌سازی‌های کاربردی",
+	"nyxvector.css": "/* دستورات این بخش کاربرانی را که از پوستهٔ وکتور استفاده کنند تحت تاثیر قرار می‌دهند. */",
+	"nyxvector.js": "/ * کدهای جاوااسکریپتی که در اینجا قرار می‌گیرند برای کاربران پوستهٔ وکتور  بارگیری می‌شود * /",
+	"nyxvector-action-addsection": "افزودن بخش",
+	"nyxvector-action-delete": "حذف",
+	"nyxvector-action-move": "انتقال",
+	"nyxvector-action-protect": "محافظت",
+	"nyxvector-action-undelete": "احیا",
+	"nyxvector-action-unprotect": "تغییر سطح حفاظت",
+	"nyxvector-view-create": "ایجاد",
+	"nyxvector-view-edit": "ویرایش",
+	"nyxvector-view-history": "نمایش تاریخچه",
+	"nyxvector-view-view": "خواندن",
+	"nyxvector-view-viewsource": "نمایش مبدأ",
+	"nyxvector-more-actions": "بیشتر"
+}

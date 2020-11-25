@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Atabek"
+		]
+	},
+	"nyxvector-action-addsection": "Tema qosıw",
+	"nyxvector-action-delete": "O'shiriw",
+	"nyxvector-action-move": "Ko'shiriw",
+	"nyxvector-action-protect": "Qorg'aw",
+	"nyxvector-action-undelete": "Qayta tiklew",
+	"nyxvector-action-unprotect": "Qorg'awdı o'zgertiw",
+	"nyxvector-view-create": "Jaratıw",
+	"nyxvector-view-edit": "O'zgertiw",
+	"nyxvector-view-history": "Tariyxın ko'riw",
+	"nyxvector-view-view": "Oqıw",
+	"nyxvector-view-viewsource": "Deregin ko'riw"
+}

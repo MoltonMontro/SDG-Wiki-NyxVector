@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iltever",
+			"Къарачайлы",
+			"Ernác"
+		]
+	},
+	"skinname-nyxvector": "Вектор",
+	"nyxvector-action-addsection": "Джангы тема къош",
+	"nyxvector-action-delete": "Кетер",
+	"nyxvector-action-move": "Атын ауушдур",
+	"nyxvector-action-protect": "Джакъла",
+	"nyxvector-action-undelete": "Къайтар",
+	"nyxvector-action-unprotect": "Джакълауну тюрлендир",
+	"nyxvector-view-create": "Къура",
+	"nyxvector-view-edit": "Тюрлендир",
+	"nyxvector-view-history": "Тарихи",
+	"nyxvector-view-view": "Окъу",
+	"nyxvector-view-viewsource": "Кодха къара",
+	"nyxvector-more-actions": "Энтда"
+}

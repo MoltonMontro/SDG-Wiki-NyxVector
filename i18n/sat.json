@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Albinus",
+			"Samar88",
+			"Srabony90",
+			"Manik Soren",
+			"Ramjit Tudu"
+		]
+	},
+	"nyxvector-action-addsection": "ᱥᱟᱛᱚᱢ ᱥᱮᱞᱮᱫ",
+	"nyxvector-action-delete": "ᱜᱮᱫ ᱜᱤᱰᱤ",
+	"nyxvector-action-move": "ᱩᱪᱟᱹᱲ",
+	"nyxvector-action-protect": "ᱨᱩᱠᱷᱤᱭᱟᱹ",
+	"nyxvector-action-undelete": "Bań getgiḍi",
+	"nyxvector-action-unprotect": "Bodol rukhiyạ",
+	"nyxvector-view-create": "ᱛᱮᱭᱟᱨ",
+	"nyxvector-view-edit": "ᱥᱟᱯᱲᱟᱣ",
+	"nyxvector-view-history": "ᱱᱟᱜᱟᱢ ᱧᱮᱞᱢᱮ",
+	"nyxvector-view-view": "ᱯᱟᱲᱦᱟᱣᱢᱮ",
+	"nyxvector-view-viewsource": "ᱯᱷᱮᱰᱟᱛ ᱧᱮᱞᱢᱮ",
+	"nyxvector-more-actions": "ᱵᱟᱹᱲᱛᱤ"
+}

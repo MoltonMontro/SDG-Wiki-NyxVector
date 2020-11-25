@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ker",
+			"Pikne",
+			"WikedKentaur"
+		]
+	},
+	"skinname-nyxvector": "Vektor",
+	"nyxvector-skin-desc": "MonoBooki uuem versioon värskema väljanägemise ja mitme kasutajasõbralikuma täiendusega",
+	"nyxvector.css": "/* Siin asuv kaskaadilaadistik puudutab kõiki Vektori-kujunduse kasutajaid. */",
+	"nyxvector.js": "/* Siin asuv JavaScript laaditakse kõigi Vektori-kujunduse kasutajate jaoks. */",
+	"nyxvector-action-addsection": "Lisa teema",
+	"nyxvector-action-delete": "Kustuta",
+	"nyxvector-action-move": "Teisalda",
+	"nyxvector-action-protect": "Kaitse",
+	"nyxvector-action-undelete": "Taasta",
+	"nyxvector-action-unprotect": "Muuda kaitset",
+	"nyxvector-view-create": "Loo",
+	"nyxvector-view-edit": "Muuda",
+	"nyxvector-view-history": "Näita ajalugu",
+	"nyxvector-view-view": "Vaata",
+	"nyxvector-view-viewsource": "Vaata lähteteksti",
+	"nyxvector-more-actions": "Veel"
+}

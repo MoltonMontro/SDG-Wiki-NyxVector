@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND",
+			"Shubha"
+		]
+	},
+	"nyxvector-action-addsection": "विषयः योज्यताम्",
+	"nyxvector-action-delete": "अपाक्रियताम्",
+	"nyxvector-action-move": "शीर्षकं परिवर्त्यताम्",
+	"nyxvector-action-protect": "संरक्ष्यताम्",
+	"nyxvector-action-undelete": "अनपाक्रियाम्",
+	"nyxvector-action-unprotect": "संरक्षणं परिवर्तयतु",
+	"nyxvector-view-create": "सृज्यताम्",
+	"nyxvector-view-edit": "सम्पाद्यताम्",
+	"nyxvector-view-history": "इतिहासः दृश्यताम्",
+	"nyxvector-view-view": "पठ्यताम्",
+	"nyxvector-view-viewsource": "स्रोतः दृश्यताम्",
+	"nyxvector-more-actions": "अधिकम्"
+}

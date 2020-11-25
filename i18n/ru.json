@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatus",
+			"JenVan",
+			"Kaganer",
+			"Nemo bis",
+			"Okras",
+			"Александр Сигачёв"
+		]
+	},
+	"skinname-nyxvector": "Векторное",
+	"nyxvector-skin-desc": "Современная версия MonoBook с обновлённым оформлением и многими улучшениями в юзабилити",
+	"nyxvector.css": "/* Размещённый здесь CSS будет применяться к векторной теме оформления  */",
+	"nyxvector.js": "/* Размещённый здесь код JavaScript будет загружаться пользователям, использующим тему оформления NyxVector */",
+	"nyxvector-action-addsection": "Добавить тему",
+	"nyxvector-action-delete": "Удалить",
+	"nyxvector-action-move": "Переименовать",
+	"nyxvector-action-protect": "Защитить",
+	"nyxvector-action-undelete": "Восстановить",
+	"nyxvector-action-unprotect": "Изменить защиту",
+	"nyxvector-view-create": "Создать",
+	"nyxvector-view-edit": "Править",
+	"nyxvector-view-history": "История",
+	"nyxvector-view-view": "Читать",
+	"nyxvector-view-viewsource": "Просмотр кода",
+	"nyxvector-more-actions": "Ещё"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nertiks",
+			"Peteris"
+		]
+	},
+	"nyxvector-action-delete": "Āupausinais",
+	"nyxvector-action-move": "Prapīdais",
+	"nyxvector-action-protect": "Kūnsteis",
+	"nyxvector-action-unprotect": "Etkūnteis",
+	"nyxvector-view-create": "Teīkeis",
+	"nyxvector-view-edit": "Redigīs",
+	"nyxvector-view-history": "Enwaidinnais istōrijan",
+	"nyxvector-view-view": "Skaitāis",
+	"nyxvector-view-viewsource": "Enwaidinnais appun"
+}

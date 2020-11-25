@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liangent",
+			"Liuxinyu970226",
+			"Xiaomingyan",
+			"Cwek"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "提供清新的外观和许多可用性改进的现代版MonoBook",
+	"nyxvector.css": "/* 这里放置的CSS将影响使用NyxVector皮肤的用户 */",
+	"nyxvector.js": "/* 这里的任何JavaScript将为使用NyxVector皮肤的用户加载 */",
+	"nyxvector-action-addsection": "添加话题",
+	"nyxvector-action-delete": "删除",
+	"nyxvector-action-move": "移动",
+	"nyxvector-action-protect": "保护",
+	"nyxvector-action-undelete": "还原",
+	"nyxvector-action-unprotect": "更改保护",
+	"nyxvector-view-create": "创建",
+	"nyxvector-view-edit": "编辑",
+	"nyxvector-view-history": "查看历史",
+	"nyxvector-view-view": "阅读",
+	"nyxvector-view-viewsource": "查看源代码",
+	"nyxvector-more-actions": "更多"
+}

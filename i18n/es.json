@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Crazymadlover",
+			"Dalton2",
+			"Fitoschido",
+			"Locos epraix",
+			"Manuelt15",
+			"MarcoAurelio",
+			"Miguel2706",
+			"Platonides",
+			"Vivaelcelta"
+		]
+	},
+	"skinname-nyxvector": "NyxVector",
+	"nyxvector-skin-desc": "Versión moderna de MonoBook, con un aspecto actualizado y muchas mejoras de usabilidad",
+	"nyxvector.css": "/* El CSS colocado en esta página afectará a los usuarios que usen la apariencia \"NyxVector\" */",
+	"nyxvector.js": "/* Cualquier código JavaScript escrito aquí se cargará para todos los usuarios que usen la apariencia NyxVector */",
+	"nyxvector-action-addsection": "Sección nueva",
+	"nyxvector-action-delete": "Borrar",
+	"nyxvector-action-move": "Trasladar",
+	"nyxvector-action-protect": "Proteger",
+	"nyxvector-action-undelete": "Restaurar",
+	"nyxvector-action-unprotect": "Cambiar protección",
+	"nyxvector-view-create": "Crear",
+	"nyxvector-view-edit": "Editar",
+	"nyxvector-view-history": "Ver historial",
+	"nyxvector-view-view": "Leer",
+	"nyxvector-view-viewsource": "Ver código",
+	"nyxvector-more-actions": "Más"
+}

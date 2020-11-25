@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gothicspeaker"
+		]
+	},
+	"nyxvector-action-delete": "𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌴𐌹",
+	"nyxvector-action-move": "𐌼𐌹𐌸𐍃𐌰𐍄𐌴𐌹",
+	"nyxvector-view-create": "𐍃𐌺𐌰𐍀𐌴𐌹",
+	"nyxvector-view-edit": "𐌹𐌽𐌼𐌰𐌹𐌳𐌴𐌹",
+	"nyxvector-view-history": "𐍃𐌰𐌹 𐍃𐍀𐌹𐌻𐌻",
+	"nyxvector-view-view": "𐌿𐍃𐍃𐌹𐌲𐌲𐍅",
+	"nyxvector-view-viewsource": "𐍃𐌰𐌹𐍈 𐌱𐍂𐌿𐌽𐌽𐌰𐌽",
+	"nyxvector-more-actions": "𐌼𐌰𐌹𐍃"
+}

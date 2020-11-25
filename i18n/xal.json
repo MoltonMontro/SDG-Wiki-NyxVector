@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huuchin"
+		]
+	},
+	"nyxvector-action-addsection": "Төриг немх",
+	"nyxvector-action-delete": "Һарһх",
+	"nyxvector-action-move": "Көндәх",
+	"nyxvector-action-protect": "Харсх",
+	"nyxvector-action-undelete": "Һарһх биш",
+	"nyxvector-action-unprotect": "Харсх биш",
+	"nyxvector-view-create": "Бүтәх",
+	"nyxvector-view-edit": "Чиклх",
+	"nyxvector-view-history": "Тууҗин хәләвр",
+	"nyxvector-view-view": "Умшлһн",
+	"nyxvector-view-viewsource": "Темдгллһнә хәләвр",
+	"nyxvector-more-actions": "Нань"
+}
